@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 import scrapy
-import scrapy
 import re
 import json
 import ast
