@@ -1,5 +1,5 @@
 # WebCrawler
-Coletar informaões disponivel em sites de noticia de forma sintetizada. 
+Coletar informacões disponivel em sites de noticia de forma sintetizada. 
 
 ## Python 
 Melhor linguagem de programacao para integracao com sistema de inteligencia artificial
